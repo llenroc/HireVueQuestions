@@ -1,0 +1,3 @@
+C:\Users\sharpjo2\source\repos\HireVueQuestions\ArrayPerfUnitTest\obj\Debug\netcoreapp3.0\ArrayPerfUnitTest.csprojAssemblyReference.cache
+C:\Users\sharpjo2\source\repos\HireVueQuestions\ArrayPerfUnitTest\obj\Debug\netcoreapp3.0\ArrayPerfUnitTest.AssemblyInfoInputs.cache
+C:\Users\sharpjo2\source\repos\HireVueQuestions\ArrayPerfUnitTest\obj\Debug\netcoreapp3.0\ArrayPerfUnitTest.AssemblyInfo.cs

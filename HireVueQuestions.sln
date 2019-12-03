@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anagrams", "Anagrams\Anagrams.csproj", "{D5884D6A-1A5E-452D-BB47-558FBE9BC431}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramsTests", "AnagramsTests\AnagramsTests.csproj", "{388F154C-6AEB-44C4-8586-CBA29B0A85D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApptOverlap", "ApptOverlap\ApptOverlap.csproj", "{E3035A75-DD05-48CD-95E1-6E7F93AB6E4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApptOverlapTests", "ApptOverlapTests\ApptOverlapTests.csproj", "{C5AA0092-42CB-47F9-ACAE-324BFC160ADC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedleHaystack", "NeedleHaystack\NeedleHaystack.csproj", "{E6ED6142-8010-43FB-9D12-A2B310ACE0B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedleHaystackTests", "NeedleHaystackTests\NeedleHaystackTests.csproj", "{F728EE66-8D4C-4E63-B9C2-D13C9BDF87CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5884D6A-1A5E-452D-BB47-558FBE9BC431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5884D6A-1A5E-452D-BB47-558FBE9BC431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5884D6A-1A5E-452D-BB47-558FBE9BC431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5884D6A-1A5E-452D-BB47-558FBE9BC431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388F154C-6AEB-44C4-8586-CBA29B0A85D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388F154C-6AEB-44C4-8586-CBA29B0A85D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388F154C-6AEB-44C4-8586-CBA29B0A85D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388F154C-6AEB-44C4-8586-CBA29B0A85D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3035A75-DD05-48CD-95E1-6E7F93AB6E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3035A75-DD05-48CD-95E1-6E7F93AB6E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3035A75-DD05-48CD-95E1-6E7F93AB6E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3035A75-DD05-48CD-95E1-6E7F93AB6E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AA0092-42CB-47F9-ACAE-324BFC160ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AA0092-42CB-47F9-ACAE-324BFC160ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AA0092-42CB-47F9-ACAE-324BFC160ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AA0092-42CB-47F9-ACAE-324BFC160ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6ED6142-8010-43FB-9D12-A2B310ACE0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ED6142-8010-43FB-9D12-A2B310ACE0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ED6142-8010-43FB-9D12-A2B310ACE0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ED6142-8010-43FB-9D12-A2B310ACE0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F728EE66-8D4C-4E63-B9C2-D13C9BDF87CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F728EE66-8D4C-4E63-B9C2-D13C9BDF87CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F728EE66-8D4C-4E63-B9C2-D13C9BDF87CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F728EE66-8D4C-4E63-B9C2-D13C9BDF87CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C69C5A9-38B4-4C57-942A-76A38EB73E52}
+	EndGlobalSection
+EndGlobal
